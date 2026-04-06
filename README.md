@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=45&pause=1000&color=00FF99&center=true&vCenter=true&width=800&height=250&lines=Welcome+to+qkdgur4's+GITHUB;I+Turn+Coffee+Into+Code+☕;Building+Awesome+Things+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=45&pause=1000&color=00C6FF&color=0072FF&center=true&vCenter=true&width=800&height=250&lines=Welcome+to+qkdgur4's+GITHUB;I+Turn+Coffee+Into+Code+☕;Building+Awesome+Things+🚀)](https://git.io/typing-svg)
