@@ -2,23 +2,26 @@
   <tr>
     <td width="50%" align="center" valign="middle">
       <br/>
-      <h2>🐹 qkdgur4's GITHUB 🐹</h2>
+      <h2> qkdgur4's GITHUB </h2>
       <br/>
       <a href="https://github.com/qkdgur4"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
       <a href="https://solved.ac/qkdgur4"><img src="https://img.shields.io/badge/solved.ac-S2-272A33?style=flat-square"/></a>
       <br/><br/>
       <a href="https://본인블로그주소입력"><img src="https://img.shields.io/badge/TISTORY_BLOG-000000?style=flat-square&logo=tistory&logoColor=white"/></a>
       <br/><br/><br/>
-      ☁️ Back-End Developer ☁️ <br/>(2023.11.10~)
       <br/>
     </td>
     <td width="50%" align="center" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api?username=qkdgur4&show_icons=true&title_color=007afb&text_color=4A4A4A&icon_color=007afb" alt="qkdgur4's GitHub Stats" />
+      <a href="https://github.com/qkdgur4">
+        <img src="https://github-readme-stats.vercel.app/api?username=qkdgur4&show_icons=true&title_color=007afb&text_color=4A4A4A&icon_color=007afb" alt="qkdgur4's GitHub Stats" />
+      </a>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qkdgur4&layout=compact&title_color=007afb&text_color=4A4A4A" alt="Top Langs" />
+      <a href="https://github.com/qkdgur4">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qkdgur4&layout=compact&title_color=007afb&text_color=4A4A4A" alt="Top Langs" />
+      </a>
     </td>
     <td width="50%" align="left" valign="top">
       <h3>Studying...✏️</h3>
