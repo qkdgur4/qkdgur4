@@ -9,7 +9,7 @@
       <br/><br/>
       <a href="https://본인블로그주소입력"><img src="https://img.shields.io/badge/TISTORY_BLOG-000000?style=flat-square&logo=tistory&logoColor=white"/></a>
       <br/><br/><br/>
-      ☁️ Back-End Developer ☁️ <br/>(2023.11.10~)
+       <br/>
       <br/>
     </td>
     <td width="50%" align="center" valign="middle">
