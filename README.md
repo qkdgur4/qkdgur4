@@ -5,10 +5,11 @@
       <h2> qkdgur4's GITHUB </h2>
       <br/>
       <a href="https://github.com/qkdgur4"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
-      <a href="https://solved.ac/dicekey#"><img src="https://img.shields.io/badge/solved.ac-S2-272A33?style=flat-square"/></a>
+      <a href="https://solved.ac/dicekey"><img src="https://mazassumnida.wtf/api/mini/generate_badge?boj=dicekey" alt="solved.ac badge"/></a>
       <br/><br/>
       <a href="https://본인블로그주소입력"><img src="https://img.shields.io/badge/TISTORY_BLOG-000000?style=flat-square&logo=tistory&logoColor=white"/></a>
       <br/><br/><br/>
+      ☁️ Back-End Developer ☁️ <br/>(2023.11.10~)
       <br/>
     </td>
     <td width="50%" align="center" valign="middle">
