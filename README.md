@@ -1,50 +1,48 @@
-| 🔴 🟡 🟢 `root@ubuntu:~` |
-| :--- |
-| [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FF41&background=0D1117&center=false&vCenter=true&width=800&height=80&lines=root@qkdgur4:~%23+Welcome+to+qkdgur4's+GITHUB;root@qkdgur4:~%23+I+Turn+Coffee+Into+Code+☕;root@qkdgur4:~%23+Building+Awesome+Things+🚀)](https://git.io/typing-svg) |
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <br />
+      <h2>🐹 qkdgur4's GITHUB 🐹</h2>
+      <br />
+      <a href="https://github.com/qkdgur4">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+      </a>
+      <a href="https://solved.ac/qkdgur4">
+        <img src="https://img.shields.io/badge/solved.ac-S2-272A33?style=flat-square"/>
+      </a>
+      <br /><br />
+      <a href="여기에_본인_블로그_주소를_넣으세요">
+        <img src="https://img.shields.io/badge/TISTORY_BLOG-000000?style=flat-square&logo=tistory&logoColor=white"/>
+      </a>
+      <br /><br /><br />
+      ☁️ Back-End Developer ☁️ <br/>(2023.11.10~)
+      <br />
+    </td>
 
-###
+    <td width="50%" valign="top" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=qkdgur4&show_icons=true&bg_color=ffffff&title_color=007afb&text_color=4A4A4A&icon_color=007afb&hide_border=false" alt="qkdgur4's GitHub Stats" />
+    </td>
+  </tr>
+  
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qkdgur4&layout=compact&bg_color=ffffff&title_color=007afb&text_color=4A4A4A&hide_border=false" alt="Top Langs" />
+    </td>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=qkdgur4&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=qkdgur4&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/vimalverma558/vimalverma558/master/pacman-github.gif" alt="Pacman" />
-</div>
+    <td width="50%" valign="top" align="left">
+      <h3>Studying...✏️</h3>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+      <br/>
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
+      <br/>
+      <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+      <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
+    </td>
+  </tr>
+</table>
