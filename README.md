@@ -14,7 +14,7 @@
     </td>
     <td width="50%" align="center" valign="middle">
       <a href="https://github.com/qkdgur4">
-        <img src="https://github-readme-stats.vercel.app/api?username=qkdgur4&show_icons=true&title_color=007afb&text_color=4A4A4A&icon_color=007afb" alt="qkdgur4's GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=qkdgur4&layout=compact&theme=dark" alt="Top Langs" />
       </a>
     </td>
   </tr>
