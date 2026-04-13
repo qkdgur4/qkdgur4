@@ -21,7 +21,7 @@
   <tr>
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/qkdgur4">
-        ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qkdgur4&layout=Demo&theme=dark)
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qkdgur4&layout=compact&theme=dark" alt="Top Langs" />
       </a>
     </td>
     <td width="50%" align="left" valign="top">
